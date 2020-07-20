@@ -22,7 +22,7 @@
     "prepack": "flipper-pkg lint && flipper-pkg bundle"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "peerDependencies": {
     "flipper": "latest"
